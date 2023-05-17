@@ -7,6 +7,7 @@ export default function Styleguide () {
         
         <h1>Hola, soy el styleguide</h1>
 
+        <Nav />
         <div className='section'>
             <h1>Esto es un h1</h1>
             <h2>Esto es un h2</h2>
